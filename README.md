@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wojciech Domino</h1>
-<h3 align="center">Student of Electronics and Telecommunications at AGH UST in Cracow also working as a full-time Data Engineer at COMARCH</h3>
+<h3 align="center">Student of Electronics and Telecommunications at AGH UST in Cracow </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wojtekdomino" alt="wojtekdomino" /></a> </p>
 
