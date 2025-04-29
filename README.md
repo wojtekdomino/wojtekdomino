@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wojciech Domino</h1>
 <h3 align="center">Student of Electronics and Telecommunications at AGH UST in Cracow </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wojtekdomino" alt="wojtekdomino" /></a> </p>
-
 - 🔭 I’m currently working on a project - engineering thesis - “Analysis and Prediction of Train Delays at Kraków Główny Station Using Machine Learning Methods and Małopolskie Railway Data.”
 
 - 🌱 I’m currently learning **Python and its libraries: numpy,pandas,matlplotlib and seaborn**
