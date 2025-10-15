@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wojciech Domino</h1>
-<h3 align="center">Student of Electronics and Telecommunications at AGH UST in Cracow </h3>
+<h3 align="center">QA Data Engineer at BitPeak, Student of Electronics and Telecommunications at AGH UST in Cracow</h3>
 
 - 🔭 I’m currently working on a project - engineering thesis - “Analysis and Prediction of Train Delays at Kraków Główny Station Using Machine Learning Methods and Małopolskie Railway Data.”
 
