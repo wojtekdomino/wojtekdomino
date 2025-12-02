@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a project - engineering thesis - “Analysis and Prediction of Train Delays at Kraków Główny Station Using Machine Learning Methods and Małopolskie Railway Data.”
 
-- 🌱 I’m currently learning **Python and its libraries: numpy,pandas,matlplotlib and seaborn**
+- 🌱 I’m currently learning ML and Data Science topics
 
 - 👨‍💻 All of my projects are available at [https://github.com/wojtekdomino?tab=projects](https://github.com/wojtekdomino?tab=projects)
 
