@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://flagcdn.com/gb.svg" width="40"> / Hallo <img src="https://flagcdn.com/de.svg" width="40">
  / Cześć <img src="https://flagcdn.com/pl.svg" width="40"> </h1>
-<h3 align="center"> My name is Wojciech Domino QA Data Engineer at BitPeak, Student of Electronics and Telecommunications at AGH UST in Cracow</h3>
-- 🗣️ I can speak three languages: Polish (fluently), English (C1 level), German (basics, A2 level)
+<h3 align="center"> My name is Wojciech Domino, I work as QA Data Engineer at BitPeak, Student of Electronics and Telecommunications at AGH UST in Cracow</h3>
 
 - 🔭 I’m currently working on a project - engineering thesis - “Analysis and Prediction of Train Delays at Kraków Główny Station Using Machine Learning Methods and Małopolskie Railway Data.”
 
@@ -11,6 +10,7 @@
 
 - 📫 How to reach me **wojtekdomino77@gmail.com**
 
+- 🗣️ I can speak three languages: **Polish** (fluently), **English** (C1 level), **German** (basics, A2 level)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/wojciech-domino-1a74a4264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wojciech-domino-1a74a4264" height="30" width="40" /></a>
