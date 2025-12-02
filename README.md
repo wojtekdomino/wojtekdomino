@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://flagcdn.com/gb.svg" width="40"> / Hallo <img src="https://flagcdn.com/de.svg" width="40">
  / Cześć <img src="https://flagcdn.com/pl.svg" width="40"> </h1>
-<h3 align="center"> My name is Wojciech Domino, I work as QA Data Engineer at BitPeak, Student of Electronics and Telecommunications at AGH UST in Cracow</h3>
+<h3 align="center"> My name is Wojciech Domino, I work as QA Data Engineer at BitPeak and study Electronics and Telecommunications at AGH UST in Cracow</h3>
 
 - 🔭 I’m currently working on a project - engineering thesis - “Analysis and Prediction of Train Delays at Kraków Główny Station Using Machine Learning Methods and Małopolskie Railway Data.”
 
