@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  My name is Wojciech Domino, I work as QA Data Engineer at BitPeak and study Electronics and Telecommunications at AGH UST in Cracow
+  My name is Wojciech Domino, I work as QA Data Engineer at BitPeak
 </h3>
 
 ## About Me
