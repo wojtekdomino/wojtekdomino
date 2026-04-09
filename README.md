@@ -8,15 +8,15 @@
 
 ## About Me
 
-🔭 **Current Project:** Engineering thesis - "Analysis and Prediction of Train Delays at Kraków Główny Station Using Machine Learning Methods and Małopolskie Railway Data"
+**Current Project:** 
 
-🌱 **Learning:** Machine Learning and Data Science
+**Learning:** Machine Learning and Data Science
 
-👨‍💻 **Projects:** Available at [github.com/wojtekdomino](https://github.com/wojtekdomino?tab=repositories)
+**Projects:** Available at [github.com/wojtekdomino](https://github.com/wojtekdomino?tab=repositories)
 
-📫 **Contact:** wojtekdomino77@gmail.com
+**Contact:** wojtekdomino77@gmail.com
 
-🗣️ **Languages:** Polish (native), English (C1), German (A2)
+**Languages:** Polish (native), English (C1), German (A2)
 
 ## Connect with me
 
